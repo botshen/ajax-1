@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b4a22dd5-98b1-411a-ac8f-142cc95d629d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +14,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b8e81f6a-0cfc-4d77-9cce-db86ef5e3c7e" />
   <component name="ProjectId" id="1jSdyXg0YI2aOiVJo3QfOiolZvO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,11 +49,25 @@
       <option name="presentableId" value="Default" />
       <updated>1603801681570</updated>
       <workItem from="1603801682632" duration="5513000" />
+      <workItem from="1603883285126" duration="2670000" />
+      <workItem from="1603893747901" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="634" y="216" key="FileChooserDialogImpl" timestamp="1603807146985">
@@ -54,5 +78,9 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="385" y="106" key="SettingsEditor/-1920.359.1280.680/0.0.1707.920@0.0.1707.920" timestamp="1603807149602" />
+    <state x="2430" y="32" key="run.anything.popup" timestamp="1603893404357">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state x="2430" y="32" key="run.anything.popup/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1603893404357" />
   </component>
 </project>
